@@ -1,0 +1,16 @@
+#include<bits/stdc++.h>
+#define ll long long
+#define mx max_element
+#define mn min_element
+#define all(x) (x).begin(), (x).end()
+#define rall(x) (x).rbegin(), (x).rend()
+#define lb lower_bound
+#define ub upper_bound
+ 
+using namespace std;
+
+int main()
+{
+   
+    return 0;
+}
